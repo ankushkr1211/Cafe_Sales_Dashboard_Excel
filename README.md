@@ -82,7 +82,7 @@ The dataset contains the following fields:
 
 ---
 ## 📷 Dashboard Preview
-![Dashboard Preview](customer_sales_dashboard_github.png)
+![Dashboard Preview](cafe_dashboard.png.JPG)
 
 ---
 
