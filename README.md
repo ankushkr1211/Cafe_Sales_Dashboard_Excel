@@ -81,20 +81,16 @@ The dataset contains the following fields:
 4. Analyze KPIs and charts dynamically
 
 ---
-
 ## 📷 Dashboard Preview
-![Cafe Sales Dashboard](dashboard.png)
+![Dashboard Preview](customer_sales_dashboard_github.png)
 
 ---
 
 ## 👤 Author
 **Ankush Kumar**  
-Skills: Excel | SQL | Power BI | Python  
+📧 Email: ankushkr804@gmail.com  
+🔗 GitHub: https://github.com/ankushkr1211
 
 ---
 
-## ⭐ Project Value
-This project demonstrates:
-- Strong Excel dashboarding skills
-- Real-world sales analysis
-- Ability to convert raw data into actionable insights
+⭐ *If you found this project useful, feel free to star the repository!*
